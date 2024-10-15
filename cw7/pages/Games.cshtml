@@ -1,0 +1,40 @@
+﻿@page
+@model cw7.pages.GamesModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gry</title>
+</head>
+<body>
+    <h1>Gry o ktorych nie wiedziales!</h1>
+    <table>
+         <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Lp</th>
+                <th>Tytul</th>
+                <th>Rok produkcji</th>
+                <th>Rodzaj filmu</th>
+                <th>Cena</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{int Lp = 0;}
+            @foreach (var Games in Model.Games)
+            {
+                Lp++;
+                <tr>
+                    <td>@Lp</td>
+                    <td>@Games.Title</td>
+                    <td>@Games.ReleseDate</td>
+                    <td>@Games.Genre</td>
+                    <td>@Games.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </table>
+</body>
+</html>

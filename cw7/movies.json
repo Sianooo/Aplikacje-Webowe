@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Shawshank Redemption",
+    "Director": "Frank Darabont",
+    "ReleaseDate": "1994-09-23",
+    "Genre": "Drama",
+    "Price": 9.99
+  },
+  {
+    "Id": 2,
+    "Title": "The Godfather",
+    "Director": "Francis Ford Coppola",
+    "ReleaseDate": "1972-03-15",
+    "Genre": "Crime",
+    "Price": 12.99
+  },
+  {
+    "Id": 3,
+    "Title": "The Dark Knight",
+    "Director": "Christopher Nolan",
+    "ReleaseDate": "2008-07-18",
+    "Genre": "Action",
+    "Price": 14.99
+  },
+  {
+    "Id": 4,
+    "Title": "12 Angry Men",
+    "Director": "Sidney Lumet",
+    "ReleaseDate": "1957-04-10",
+    "Genre": "Drama",
+    "Price": 7.99
+  },
+  {
+    "Id": 5,
+    "Title": "Schindler's List",
+    "Director": "Steven Spielberg",
+    "ReleaseDate": "1993-12-15",
+    "Genre": "Biography",
+    "Price": 11.99
+  },
+  {
+    "Id": 6,
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Director": "Peter Jackson",
+    "ReleaseDate": "2003-12-17",
+    "Genre": "Fantasy",
+    "Price": 19.99
+  },
+  {
+    "Id": 7,
+    "Title": "Pulp Fiction",
+    "Director": "Quentin Tarantino",
+    "ReleaseDate": "1994-10-14",
+    "Genre": "Crime",
+    "Price": 10.99
+  },
+  {
+    "Id": 8,
+    "Title": "The Good, the Bad and the Ugly",
+    "Director": "Sergio Leone",
+    "ReleaseDate": "1966-12-23",
+    "Genre": "Western",
+    "Price": 8.99
+  },
+  {
+    "Id": 9,
+    "Title": "Forrest Gump",
+    "Director": "Robert Zemeckis",
+    "ReleaseDate": "1994-07-06",
+    "Genre": "Drama",
+    "Price": 13.99
+  },
+  {
+    "Id": 10,
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Director": "George Lucas",
+    "ReleaseDate": "1977-05-25",
+    "Genre": "Science Fiction",
+    "Price": 15.99
+  }
+]

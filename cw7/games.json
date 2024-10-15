@@ -1,0 +1,72 @@
+[
+    {
+      "Id": 1,
+      "Title": "The Last of Us",
+      "ReleseDate": "2013-06-14",
+      "Genre": "Action, Adventure",
+      "Price": 49.99
+    },
+    {
+      "Id": 2,
+      "Title": "God of War",
+      "ReleseDate": "2018-04-20",
+      "Genre": "Action, Adventure",
+      "Price": 59.99
+    },
+    {
+      "Id": 3,
+      "Title": "Red Dead Redemption 2",
+      "ReleseDate": "2018-10-26",
+      "Genre": "Action, Adventure",
+      "Price": 69.99
+    },
+    {
+      "Id": 4,
+      "Title": "Mortal Kombat 11",
+      "ReleseDate": "2019-04-23",
+      "Genre": "Fighting",
+      "Price": 49.99
+    },
+    {
+      "Id": 5,
+      "Title": "Resident Evil 7: Biohazard",
+      "ReleseDate": "2017-01-24",
+      "Genre": "Survival Horror",
+      "Price": 39.99
+    },
+    {
+      "Id": 6,
+      "Title": "Overwatch",
+      "ReleseDate": "2016-05-24",
+      "Genre": "First-person shooter",
+      "Price": 39.99
+    },
+    {
+      "Id": 7,
+      "Title": "Dark Souls III",
+      "ReleseDate": "2016-03-24",
+      "Genre": "Action, RPG",
+      "Price": 49.99
+    },
+    {
+      "Id": 8,
+      "Title": "Call of Duty: Modern Warfare",
+      "ReleseDate": "2019-10-25",
+      "Genre": "First-person shooter",
+      "Price": 59.99
+    },
+    {
+      "Id": 9,
+      "Title": "Assassin's Creed Odyssey",
+      "ReleseDate": "2018-10-05",
+      "Genre": "Action, Adventure",
+      "Price": 59.99
+    },
+    {
+      "Id": 10,
+      "Title": "Cyberpunk 2077",
+      "ReleseDate": "2020-12-10",
+      "Genre": "RPG",
+      "Price": 69.99
+    }
+  ]
