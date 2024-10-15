@@ -1,0 +1,14 @@
+D:\Aplikacje Web\cw4\bin\Debug\net8.0\cw4.exe
+D:\Aplikacje Web\cw4\bin\Debug\net8.0\cw4.deps.json
+D:\Aplikacje Web\cw4\bin\Debug\net8.0\cw4.runtimeconfig.json
+D:\Aplikacje Web\cw4\bin\Debug\net8.0\cw4.dll
+D:\Aplikacje Web\cw4\bin\Debug\net8.0\cw4.pdb
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.AssemblyInfoInputs.cache
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.AssemblyInfo.cs
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.csproj.CoreCompileInputs.cache
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.dll
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\refint\cw4.dll
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.pdb
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\cw4.genruntimeconfig.cache
+D:\Aplikacje Web\cw4\obj\Debug\net8.0\ref\cw4.dll

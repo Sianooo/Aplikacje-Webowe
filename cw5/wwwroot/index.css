@@ -1,0 +1,8 @@
+*{
+    background-color: papayawhip;
+}
+#root{
+    min-height: 50px;
+    border: solid 1px black;
+    padding: 20px;
+}
