@@ -1,0 +1,25 @@
+﻿@page
+@using cw6.Pages
+@model cw6.Pages.page1Model
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styl.css">
+    <title>Strona index-1</title>
+</head>
+<body>
+<select id="personSelect">
+       <option value=""></option>
+    @foreach(var item in page1Model.GetPersons()){
+        <option>@item.FirstName @item.LastName (@item.Age)</option>
+    }
+</select>
+<p id="selectedPerson"></p>
+    <div id="root"></div>
+    <script src="~/index.js"></script>
+</body>
+</html>

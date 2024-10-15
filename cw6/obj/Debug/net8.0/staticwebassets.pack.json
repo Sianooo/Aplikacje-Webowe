@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Aplikacje Web\\cw6\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "D:\\Aplikacje Web\\cw6\\wwwroot\\styl.css",
+      "PackagePath": "staticwebassets\\styl.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.cw6.props",
+      "PackagePath": "build\\cw6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.cw6.props",
+      "PackagePath": "buildMultiTargeting\\cw6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.cw6.props",
+      "PackagePath": "buildTransitive\\cw6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.cw6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
