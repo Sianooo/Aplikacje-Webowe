@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hyDWSM6E7jaexawoRXewUTv9tuAzZmQpIQHh1EvidnQ=",
+  "Source": "cw8",
+  "BasePath": "_content/cw8",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cw8\\wwwroot",
+      "Source": "cw8",
+      "ContentRoot": "D:\\Aplikacje Web\\cw8\\wwwroot\\",
+      "BasePath": "_content/cw8",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Aplikacje Web\\cw8\\wwwroot\\cw8.css",
+      "SourceId": "cw8",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aplikacje Web\\cw8\\wwwroot\\",
+      "BasePath": "_content/cw8",
+      "RelativePath": "cw8.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cw8.css"
+    }
+  ]
+}
