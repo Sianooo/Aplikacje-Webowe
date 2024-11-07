@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Aplikacje Web\\cw7\\cw7.csproj": {}
+    "D:\\Aplikacje Web\\cw7\\cw7.csproj": {}
   },
   "projects": {
-    "d:\\Aplikacje Web\\cw7\\cw7.csproj": {
+    "D:\\Aplikacje Web\\cw7\\cw7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Aplikacje Web\\cw7\\cw7.csproj",
+        "projectUniqueName": "D:\\Aplikacje Web\\cw7\\cw7.csproj",
         "projectName": "cw7",
-        "projectPath": "d:\\Aplikacje Web\\cw7\\cw7.csproj",
+        "projectPath": "D:\\Aplikacje Web\\cw7\\cw7.csproj",
         "packagesPath": "C:\\Users\\Egzamin\\.nuget\\packages\\",
-        "outputPath": "d:\\Aplikacje Web\\cw7\\obj\\",
+        "outputPath": "D:\\Aplikacje Web\\cw7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Egzamin\\AppData\\Roaming\\NuGet\\NuGet.Config"

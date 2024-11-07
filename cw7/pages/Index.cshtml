@@ -11,7 +11,8 @@
     <title>Cwiczenie 7</title>
 </head>
 <body>
-    <h1>Lista filmow:</h1>
+    <div class="container">
+         <h1>Lista filmow:</h1>
     <table class="table table-striped">
         <thead>
             <tr>
@@ -21,6 +22,7 @@
                 <th>Rok produkcji</th>
                 <th>Rodzaj filmu</th>
                 <th>Cena</th>
+                <th>Operacje</th>
             </tr>
         </thead>
         <tbody>
@@ -34,7 +36,11 @@
                     <td>@movie.Director</td>
                     <td>@movie.ReleseDate</td>
                     <td>@movie.Genre</td>
-                    <td>@movie.Price</td>
+                    <td class="text-end">@movie.Price</td>
+                    <td>
+                        <a class="btn btn-danger" asp-page="DeleteMovie" asp-route-id="@movie.Id">Usun</a>
+                        <a class="btn btn-secondary" asp-page="EditMovie" asp-route-id="@movie.Id">Edytuj</a>
+                    </td>
                 </tr>
             }
         </tbody>
@@ -43,5 +49,7 @@
         <a asp-page="Games">Gry</a><br>
         <a asp-page="AddMovie">Dodaj film</a>
     </div>
+    </div>
+   
 </body>
 </html>

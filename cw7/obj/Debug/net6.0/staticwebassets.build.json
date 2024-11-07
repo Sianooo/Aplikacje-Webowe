@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m7/YLmQqyUJklTQk7KkUHIGDQJBPKYPU3Bbhzc+4fis=",
+  "Hash": "diPzb1iYJYXFrYv6DjO9TmKw48qo4bVoMpu3Wfdxp4o=",
   "Source": "cw7",
   "BasePath": "_content/cw7",
   "Mode": "Default",
@@ -10,24 +10,22 @@
     {
       "Name": "cw7\\wwwroot",
       "Source": "cw7",
-      "ContentRoot": "D:\\Aplikacje Web\\cw7\\wwwroot\\",
+      "ContentRoot": "E:\\Aplikacje Web\\cw7\\wwwroot\\",
       "BasePath": "_content/cw7",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Aplikacje Web\\cw7\\wwwroot\\cw7.css",
+      "Identity": "E:\\Aplikacje Web\\cw7\\wwwroot\\cw7.css",
       "SourceId": "cw7",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Aplikacje Web\\cw7\\wwwroot\\",
+      "ContentRoot": "E:\\Aplikacje Web\\cw7\\wwwroot\\",
       "BasePath": "_content/cw7",
       "RelativePath": "cw7.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
