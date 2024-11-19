@@ -1,0 +1,29 @@
+﻿@page
+@model cw7.Pages.PrimesModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generator liczb pierwszych</title>
+</head>
+<body>
+    <h1>Generator liczb pierwszych</h1>
+    <form method="post">
+        <label for="primeCount">Podaj ilość liczb pierwszych do wygenerowania:</label>
+        <input type="number" id="primeCount" name="PrimeCount" min="1" required>
+        <button type="submit">Generuj</button>
+    </form>
+
+    @if (Model.Primes != null && Model.Primes.Any())
+    {
+        <h2>Wynik:</h2>
+        <ul>
+            @foreach (var prime in Model.Primes)
+            {
+                <li>@prime</li>
+            }
+        </ul>
+    }
+</body>
+</html>

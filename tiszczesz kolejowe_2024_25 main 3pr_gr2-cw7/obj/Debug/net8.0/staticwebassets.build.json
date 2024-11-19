@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "iFwLkUbUTGsucumIx9f6wSQo4aDBsC9UhmLVUHAb5ew=",
+  "Source": "cw7",
+  "BasePath": "_content/cw7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cw7\\wwwroot",
+      "Source": "cw7",
+      "ContentRoot": "D:\\Aplikacje Web\\tiszczesz kolejowe_2024_25 main 3pr_gr2-cw7\\wwwroot\\",
+      "BasePath": "_content/cw7",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Aplikacje Web\\tiszczesz kolejowe_2024_25 main 3pr_gr2-cw7\\wwwroot\\style.css",
+      "SourceId": "cw7",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aplikacje Web\\tiszczesz kolejowe_2024_25 main 3pr_gr2-cw7\\wwwroot\\",
+      "BasePath": "_content/cw7",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
