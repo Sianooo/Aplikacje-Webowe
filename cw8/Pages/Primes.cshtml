@@ -1,0 +1,45 @@
+﻿@page
+@model cw8.Pages.PrimesModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liczby Pierwsze</title>
+</head>
+<body>
+    <h1>Liczby pierwsze</h1>
+    <form method="post">
+        <label>Ile chcesz liczb pierwszych:</label>
+        <input type="number" name="ilosc" min="1" required>
+        <button type="submit">Zatwierdź</button>
+    </form>
+
+    @if (Model.PrimeNumbers != null && Model.PrimeNumbers.Count > 0)
+    {
+        <h2>Twoje liczby pierwsze:</h2>
+        <table border="1" style="border-collapse: collapse; width: 100%;">
+            <tbody>
+                @for (int i = 0; i < Model.PrimeNumbers.Count; i += 30)
+                {
+                    <tr>
+                        @for (int j = i; j < i + 30; j++)
+                        {
+                            <td>
+                                @if (j < Model.PrimeNumbers.Count)
+                                {
+                                    @Model.PrimeNumbers[j]
+                                }
+                                else
+                                {
+                                    @Html.Raw("&nbsp;")
+                                }
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</body>
+</html>

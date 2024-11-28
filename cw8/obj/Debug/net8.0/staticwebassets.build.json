@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hyDWSM6E7jaexawoRXewUTv9tuAzZmQpIQHh1EvidnQ=",
+  "Hash": "5qMJB0d/xv2t+Hc/VGGt1/pq1kfrV4lUg93QTXaPGco=",
   "Source": "cw8",
   "BasePath": "_content/cw8",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "cw8\\wwwroot",
       "Source": "cw8",
-      "ContentRoot": "D:\\Aplikacje Web\\cw8\\wwwroot\\",
+      "ContentRoot": "G:\\Aplikacje Web\\cw8\\wwwroot\\",
       "BasePath": "_content/cw8",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Aplikacje Web\\cw8\\wwwroot\\cw8.css",
+      "Identity": "G:\\Aplikacje Web\\cw8\\wwwroot\\style.css",
       "SourceId": "cw8",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Aplikacje Web\\cw8\\wwwroot\\",
+      "ContentRoot": "G:\\Aplikacje Web\\cw8\\wwwroot\\",
       "BasePath": "_content/cw8",
-      "RelativePath": "cw8.css",
+      "RelativePath": "style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\cw8.css"
+      "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "G:\\Aplikacje Web\\cw8\\wwwroot\\wynik.txt",
+      "SourceId": "cw8",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Aplikacje Web\\cw8\\wwwroot\\",
+      "BasePath": "_content/cw8",
+      "RelativePath": "wynik.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wynik.txt"
     }
   ]
 }

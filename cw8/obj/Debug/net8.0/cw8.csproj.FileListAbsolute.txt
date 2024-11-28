@@ -1,29 +1,84 @@
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\appsettings.Development.json
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\appsettings.json
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\games.json
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.staticwebassets.runtime.json
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.exe
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.deps.json
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.runtimeconfig.json
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.dll
-D:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.pdb
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.GeneratedMSBuildEditorConfig.editorconfig
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.AssemblyInfoInputs.cache
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.AssemblyInfo.cs
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.csproj.CoreCompileInputs.cache
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.MvcApplicationPartsAssemblyInfo.cache
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cache
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cs
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets.build.json
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets.development.json
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.cw8.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.build.cw8.props
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cw8.props
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cw8.props
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\scopedcss\bundle\cw8.styles.css
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.dll
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\refint\cw8.dll
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.pdb
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.genruntimeconfig.cache
-D:\Aplikacje Web\cw8\obj\Debug\net8.0\ref\cw8.dll
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\appsettings.json
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\cw8.staticwebassets.runtime.json
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\cw8.exe
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\cw8.deps.json
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\cw8.runtimeconfig.json
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\cw8.dll
+C:\Users\Egzamin\Desktop\cw8\bin\Debug\net8.0\cw8.pdb
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.AssemblyInfoInputs.cache
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.AssemblyInfo.cs
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cache
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cs
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.cw8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.build.cw8.props
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cw8.props
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cw8.props
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\scopedcss\bundle\cw8.styles.css
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.dll
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\refint\cw8.dll
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.pdb
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\cw8.genruntimeconfig.cache
+C:\Users\Egzamin\Desktop\cw8\obj\Debug\net8.0\ref\cw8.dll
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\appsettings.json
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\cw8.staticwebassets.runtime.json
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\cw8.exe
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\cw8.deps.json
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\cw8.runtimeconfig.json
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\cw8.dll
+C:\Users\Uczeń\Desktop\cw8\bin\Debug\net8.0\cw8.pdb
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.AssemblyInfoInputs.cache
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.AssemblyInfo.cs
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cache
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cs
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.cw8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.build.cw8.props
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cw8.props
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cw8.props
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\scopedcss\bundle\cw8.styles.css
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.dll
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\refint\cw8.dll
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.pdb
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\cw8.genruntimeconfig.cache
+C:\Users\Uczeń\Desktop\cw8\obj\Debug\net8.0\ref\cw8.dll
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\appsettings.Development.json
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\appsettings.json
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.staticwebassets.runtime.json
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.exe
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.deps.json
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.runtimeconfig.json
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.dll
+G:\Aplikacje Web\cw8\bin\Debug\net8.0\cw8.pdb
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.AssemblyInfoInputs.cache
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.AssemblyInfo.cs
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.csproj.CoreCompileInputs.cache
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.MvcApplicationPartsAssemblyInfo.cache
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cache
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.RazorAssemblyInfo.cs
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets.build.json
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets.development.json
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.cw8.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.build.cw8.props
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cw8.props
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cw8.props
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\scopedcss\bundle\cw8.styles.css
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.dll
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\refint\cw8.dll
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.pdb
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\cw8.genruntimeconfig.cache
+G:\Aplikacje Web\cw8\obj\Debug\net8.0\ref\cw8.dll

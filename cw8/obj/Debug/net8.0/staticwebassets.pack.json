@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "D:\\Aplikacje Web\\cw8\\wwwroot\\cw8.css",
-      "PackagePath": "staticwebassets\\cw8.css"
+      "Id": "G:\\Aplikacje Web\\cw8\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "G:\\Aplikacje Web\\cw8\\wwwroot\\wynik.txt",
+      "PackagePath": "staticwebassets\\wynik.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.cw8.props",
