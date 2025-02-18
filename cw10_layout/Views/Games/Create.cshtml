@@ -1,0 +1,23 @@
+﻿@model cw10_layout.Models.MyGame
+<h2>Dodawanie Gry</h2>
+<form asp-action="Create" method="post">
+    <div class="row m-2">
+        <label class="col-3 text-end" asp-for="Title"></label>
+        <input type="text" asp-for="Title" class="col-6" />
+        <span asp-validation-for="Title" class="col-3 text-danger"></span>
+    </div>
+
+    <div class="row m-2">
+        <label class="col-3 text-end" asp-for="Genre"></label>
+        <input type="text" asp-for="Genre" class="col-6" />
+        <span asp-validation-for="Genre" class="col-3 text-danger"></span>
+    </div>
+
+    <div class="row m-2">
+        <label class="col-3 text-end" asp-for="ReleaseYear"></label>
+        <input type="number" asp-for="ReleaseYear" class="col-6" />
+        <span asp-validation-for="ReleaseYear" class="col-3 text-danger"></span>
+    </div>
+
+    <input type="submit" value="Dodaj" class="col-6 offset-3 btn btn-primary" />
+</form>

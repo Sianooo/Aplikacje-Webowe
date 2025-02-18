@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Webowe\\cw10_layout\\wwwroot\\site.css",
+      "PackagePath": "staticwebassets\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.cw10_layout.props",
+      "PackagePath": "build\\cw10_layout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.cw10_layout.props",
+      "PackagePath": "buildMultiTargeting\\cw10_layout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.cw10_layout.props",
+      "PackagePath": "buildTransitive\\cw10_layout.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.cw10_layout.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

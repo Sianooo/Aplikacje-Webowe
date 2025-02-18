@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "DIVL/RzO2YhZ+8Rp7YyYRrzGKwbi317M4OS0W1AY9YQ=",
+  "Source": "cw10_layout",
+  "BasePath": "_content/cw10_layout",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cw10_layout\\wwwroot",
+      "Source": "cw10_layout",
+      "ContentRoot": "D:\\Webowe\\cw10_layout\\wwwroot\\",
+      "BasePath": "_content/cw10_layout",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Webowe\\cw10_layout\\wwwroot\\site.css",
+      "SourceId": "cw10_layout",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Webowe\\cw10_layout\\wwwroot\\",
+      "BasePath": "_content/cw10_layout",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}
