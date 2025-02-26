@@ -6,8 +6,8 @@
         <tr>
             <th>Lp</th>
             <th>Tytuł</th>
-            <th>Gatunek</th>
             <th>Rok wydania</th>
+            <th>Gatunek</th>
             <th>Akcja</th>
         </tr>
     </thead>
@@ -19,8 +19,8 @@
             <tr>
                 <td>@lp</td>
                 <td>@game.Title</td>
-                <td>@game.Genre</td>
                 <td>@game.ReleaseYear</td>
+                <td>@game.Genre</td>
                 <td>
                     <form method="post" action="@Url.Action("DeleteGame", new { id = game.Id })" onsubmit="return confirm('Are you sure you want to delete this game?');">
                         <button type="submit" class="btn btn-danger">Usuń</button>

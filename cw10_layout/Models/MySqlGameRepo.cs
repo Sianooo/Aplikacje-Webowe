@@ -96,4 +96,8 @@ public class MySqlIGameRepo : IGameRepo
         command.Parameters.AddWithValue("@id", id);
         command.ExecuteNonQuery();
     }
+
+    // public void UpdateGame(MyGame game){
+
+    // }
 }
