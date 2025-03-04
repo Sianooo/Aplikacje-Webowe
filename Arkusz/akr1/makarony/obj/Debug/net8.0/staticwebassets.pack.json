@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\menu.jpg",
+      "PackagePath": "staticwebassets\\menu.jpg"
+    },
+    {
+      "Id": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\styl4.css",
+      "PackagePath": "staticwebassets\\styl4.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.makarony.props",
+      "PackagePath": "build\\makarony.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.makarony.props",
+      "PackagePath": "buildMultiTargeting\\makarony.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.makarony.props",
+      "PackagePath": "buildTransitive\\makarony.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.makarony.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

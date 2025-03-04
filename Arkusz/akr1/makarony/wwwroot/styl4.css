@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F6E5CC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.baner{
+    background-color: #2F180C;
+    text-align: center;
+    color: khaki;
+    font-size: 20px;
+}
+.gorny{
+    display: flex;
+}
+.lewy{
+    width: 60%;
+}
+.prawy{
+    font-size: 150%;
+    padding: 70px;
+}
+.dolny{
+    background-color: #D0B6A8;
+    padding: 30px;
+    text-align: center;
+    margin: 0;
+}
+footer{
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+    margin: 0;
+}
+input[type=reset],input[type=submit]{
+    margin: 10px;
+    padding: 5px;
+    color: khaki;
+    background-color: #2F180C;
+}

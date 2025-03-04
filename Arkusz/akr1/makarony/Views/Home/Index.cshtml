@@ -1,0 +1,53 @@
+﻿@model Reservation
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restauracja Wszytskie Smaki</title>
+    <link rel="stylesheet" href="~/styl4.css">
+</head>
+<body>
+    <header class="baner">
+        <h1>Witamy w restauracji Wszytskie Smaki</h1>
+    </header>
+    <main>
+        <section class="gorny">
+            <section class="lewy">
+                <img src="~/menu.jpg" alt="Nasze danie">
+            </section>
+            <section class="prawy">
+                <h4>U nas dobrze zjesz</h4>
+                <ol>
+                    <li>Obiady Obiady 40zl</li>
+                    <li>Przekaski 10zl</li>
+                    <li>Kolacje 20zl</li>
+                </ol>
+            </section>
+        </section>
+        <section class="dolny">
+            <h2>Zarezerwuj stolik on-line</h2>
+            <form asp-action="Result" method="POST">
+                <label for="">Data</label>
+                <br>
+                <input type="text" asp-for="Date">
+                <br>
+                <label for="">Ile osob</label>
+                <br>
+                <input type="number" asp-for="PersonCount">
+                <br>
+                <label for="">Telefon</label>
+                <br>
+                <input type="text" asp-for="Phone">
+                <br>
+                <input type="checkbox" id="check">Zgadzam sie na warunki <br>
+                <input type="reset" value="Wyczysc">
+                <input type="submit" value="Wyslij">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Strone internetowa przygotowal : 00000000000</p>
+    </footer>
+</body>
+</html>

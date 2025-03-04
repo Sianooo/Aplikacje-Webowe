@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Uf4JGXqeuMpvEh7PbD5KcZ6gvAy033pGMSAG6afnjjs=",
+  "Source": "makarony",
+  "BasePath": "_content/makarony",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "makarony\\wwwroot",
+      "Source": "makarony",
+      "ContentRoot": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\",
+      "BasePath": "_content/makarony",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\menu.jpg",
+      "SourceId": "makarony",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\",
+      "BasePath": "_content/makarony",
+      "RelativePath": "menu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu.jpg"
+    },
+    {
+      "Identity": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\styl4.css",
+      "SourceId": "makarony",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Webowe\\Arkusz\\akr1\\makarony\\wwwroot\\",
+      "BasePath": "_content/makarony",
+      "RelativePath": "styl4.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styl4.css"
+    }
+  ]
+}
