@@ -1,0 +1,37 @@
+@{
+    Layout = "_Layout";
+}
+
+<h2>Types</h2>
+
+<form method="get" action="/Football/Types">
+    <input type="text" name="search" value="@ViewBag.SearchTerm" placeholder="Search for a type..." />
+    <button type="submit">Search</button>
+    @if (!string.IsNullOrEmpty(ViewBag.SearchTerm))
+    {
+        @* <a href="/Football/Types">Clear Search</a> *@
+    }
+</form>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Rodzaj</th>
+            <th>Nazwa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var type in (ViewBag.FilteredType == null ? ViewBag.Types : new[] { ViewBag.FilteredType }))
+        {
+            <tr>
+                <td><a href="/Football/Types?name=@type.Name">@type.Name</a></td>
+                <td>@type.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (ViewBag.FilteredType != null)
+{
+    <p><a href="/Football/Types">Show All Types</a></p>
+}

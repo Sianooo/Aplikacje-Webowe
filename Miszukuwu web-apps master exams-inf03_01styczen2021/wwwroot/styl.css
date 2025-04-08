@@ -1,0 +1,86 @@
+body {
+    font-family: Tahoma;
+    background-color: Crimson;
+}
+
+h2 {
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+#banner {
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+
+#match {
+    color: white;
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#match:hover {
+    border-color: white;
+}
+
+#main {
+    background-color: WhiteSmoke;
+    height: 50px;
+}
+
+#left {
+    background-color: WhiteSmoke;
+    width: 70%;
+    height: 230px;
+    display: inline-block; /* Change to inline-block */
+    background-color: WhiteSmoke;
+    width: 70%;
+    height: 230px;
+}
+
+#right {
+    background-color: WhiteSmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    
+}
+footer{
+    background-color: WhiteSmoke;
+    text-align: right;
+}
+.dol{
+    display: flex;
+}
+
+#matches
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bojo
+{
+    padding-left: 25%;
+}
+
+header
+{
+    color: white;
+}
+#middle{
+    background-color: whitesmoke;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color:whitesmoke ;
+}

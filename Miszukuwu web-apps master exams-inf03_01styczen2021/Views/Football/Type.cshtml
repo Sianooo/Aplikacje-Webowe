@@ -1,0 +1,38 @@
+﻿﻿@{
+    Layout = "_Layout";
+}
+
+<h2>Types</h2>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Rodzaj</th>
+            <th>Nazwa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (ViewBag.FilteredType == null)
+        {
+            foreach (var type in ViewBag.Types)
+            {
+                <tr>
+                    <td><a href="/Football/Types?name=@Uri.EscapeDataString(type.Name)">@type.Name</a></td>
+                    <td>@type.Count</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td><a href="/Football/Types?name=@Uri.EscapeDataString(ViewBag.FilteredType.Name)">@ViewBag.FilteredType.Name</a></td>
+                <td>@ViewBag.FilteredType.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (ViewBag.FilteredType != null)
+{
+    <p><a href="/Football/Types">Show All Types</a></p>
+}
